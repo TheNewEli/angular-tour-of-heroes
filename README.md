@@ -95,7 +95,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 
-<form class="rating">
+<-- <form class="rating">
   <label>
     <input type="radio" name="stars" value="1" />
     <span class="icon">★</span>
@@ -127,3 +127,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
     <span class="icon">★</span>
   </label>
 </form>
+-->
